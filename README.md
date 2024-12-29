@@ -3,7 +3,7 @@ A decentralized quiz platform where participants compete for crypto prizes <br>
 
 First, run the development server:
 
-
+```
 npm run dev
 ```
 
