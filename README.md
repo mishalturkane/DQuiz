@@ -1,5 +1,4 @@
-A decentralized quiz platform where participants compete for crypto prizes <br>
-![Uploading image.png…]()
+A decentralized quiz platform where participants compete for crypto prizes <br>https://github.com/mishalturkane/DQuiz/blob/main/img.png
 
 ## Getting Started
 
