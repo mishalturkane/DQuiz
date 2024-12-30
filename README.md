@@ -1,4 +1,6 @@
 A decentralized quiz platform where participants compete for crypto prizes <br>
+![Uploading image.png…]()
+
 ## Getting Started
 
 First, run the development server:
